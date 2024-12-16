@@ -17,7 +17,7 @@ An imitation game of *I'm on Observation Duty*
 ---
 
 ## **1) Demo Video**  
-[Insert demo video link here.]
+[Preparing]
 
 ---
 
